@@ -25,3 +25,5 @@ CREATE TABLE cart (
     FOREIGN KEY (user_id) REFERENCES user (id),
     FOREIGN KEY (item_id) REFERENCES item (id)
 );
+
+
