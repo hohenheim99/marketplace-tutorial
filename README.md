@@ -25,3 +25,6 @@ flask run
 
 4. Navigate to the url provided in the terminal to see the web application
 # Tics3-aquamarket
+
+
+5: Este projecto fue realizado usando este proyecto como template. Cualquier derecho pertenece al creador original
