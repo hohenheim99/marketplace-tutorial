@@ -27,4 +27,4 @@ flask run
 # Tics3-aquamarket
 
 
-5: Este projecto fue realizado usando este proyecto como template. Cualquier derecho pertenece al creador original
+5: Este projecto fue realizado usando este proyecto como template. Cualquier derecho pertenece al creador original (https://github.com/sbssai123/marketplace-tutorial) by "sbssai123" user
